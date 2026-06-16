@@ -29,10 +29,12 @@ The Power BI report consists of four main pages:
 
 ## 🏠 Welcome Page
 The report starts with a landing page that introduces the dashboard and provides navigation buttons to the analytical pages.
+
 <img width="1323" height="741" alt="Pizza_landing_page" src="https://github.com/user-attachments/assets/ec632ba3-c4ed-4854-9e57-97d68d558e2c" />
 
 ## 📈 Overview Page
 The Overview page provides a high-level summary of the pizza business performance. It is designed to give users a quick understanding of the most important business metrics before moving into more detailed analysis.
+
 <img width="1327" height="745" alt="Pizza_overview" src="https://github.com/user-attachments/assets/3acfd5ec-c003-4c4f-9609-1f48381bbefd" />
 
 ### Key KPIs
@@ -43,13 +45,13 @@ The Overview page provides a high-level summary of the pizza business performanc
 - Revenue - Total sales revenue
 
 ### Visuals Included
-#### Revenue by Pizza Category
+#### **Revenue by Pizza Category**
 This bar chart compares total revenue across pizza categories such as Classic, Supreme, Chicken, and Veggie. It helps identify which category contributes the most to overall revenue.
 
-#### Monthly Revenue Trend
+#### **Monthly Revenue Trend**
 This table shows monthly revenue together with month-over-month change and percentage change. It helps track revenue movement over time and identify stronger or weaker months.
 
-#### Monthly Order Trend
+#### **Monthly Order Trend**
 This line chart shows how order volume changes across months. It helps identify seasonal patterns and periods of higher or lower customer activity.
 
 ### Filters
