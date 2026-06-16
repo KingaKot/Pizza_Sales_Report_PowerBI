@@ -60,5 +60,28 @@ The Overview page includes slicers for:
 - Day of week
 These filters allow users to explore sales performance for specific pizza categories or weekdays.
 
+## 🍕 Product Performance Page
+
+The Product Performance page focuses on product-level analysis. This page helps understand which pizzas perform best, which products generate the most revenue, and how price relates to demand.
+
+<img width="1327" height="742" alt="pizza_product_performance" src="https://github.com/user-attachments/assets/556c9989-5b42-4f25-8938-83239471ffa2" />
+
+### Key KPIs
+- Unique Pizza Recipes - Number of unique pizza recipes available
+- Available Pizza Sizes - Number and list of available pizza sizes
+- Best Selling Product - Product with the highest quantity sold
+- Least Selling Product - Product with the lowest quantity sold
+
+### Visuals Included
+#### **5 Highest Revenue Products**
+This horizontal bar chart shows the five products that generated the highest revenue. It helps identify the strongest revenue contributors.
+
+#### **5 Lowest Revenue Products**
+This chart shows the five products with the lowest revenue contribution. It helps identify products that may need further business review, promotion, or menu optimization.
+
+#### **Price vs Product Demand**
+This scatter chart compares product price with the number of pizzas sold. It helps analyze whether higher-priced products have lower demand and whether some products perform well despite a higher price. The chart uses category colors to distinguish pizza groups.
+
+
 
 
