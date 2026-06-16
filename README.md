@@ -29,5 +29,7 @@ The Power BI report consists of four main pages:
 
 ## 🏠 Welcome Page
 The report starts with a landing page that introduces the dashboard and provides navigation buttons to the analytical pages.
+<img width="1327" height="745" alt="Pizza_overview" src="https://github.com/user-attachments/assets/02f32807-d3dd-4b3b-aaa3-22f99d988b85" />
+
 
 
