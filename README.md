@@ -27,6 +27,9 @@ The Power BI report consists of four main pages:
 3. Product Performance
 4. Time Analysis
 
+## 🧭 Report Navigation
+The report includes custom navigation buttons located in the top-right corner of each analytical page. These buttons allow users to move easily between the main report sections: Overview, Product Performance, and Time Analysis.
+
 ## 🏠 Welcome Page
 The report starts with a landing page that introduces the dashboard and provides navigation buttons to the analytical pages.
 
