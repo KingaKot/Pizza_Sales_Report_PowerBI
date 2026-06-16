@@ -35,7 +35,7 @@ The report starts with a landing page that introduces the dashboard and provides
 ## 📈 Overview Page
 The Overview page provides a high-level summary of the pizza business performance. It is designed to give users a quick understanding of the most important business metrics before moving into more detailed analysis.
 
-<img width="1327" height="745" alt="Pizza_overview" src="https://github.com/user-attachments/assets/3acfd5ec-c003-4c4f-9609-1f48381bbefd" />
+<img width="1482" height="832" alt="image" src="https://github.com/user-attachments/assets/99fb99ec-e7e8-4f7d-86df-861785d16690" />
 
 ### Key KPIs
 - Avg Pizzas per Order - Average number of pizzas included in one order
