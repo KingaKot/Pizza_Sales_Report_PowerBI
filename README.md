@@ -107,6 +107,22 @@ This chart compares order volume across weekdays. It helps identify the busiest 
 #### Monthly Order Trend
 This line chart shows how order volume changes month by month. It helps detect seasonality and changes in customer demand across the year.
 
+## 🔎 Key Insights
+Based on the analysis, the following insights were identified:
+- The business generated approximately 818K € in revenue.
+- A total of around 21K orders were placed.
+- Around 50K pizzas were sold.
+- Customers ordered an average of 2 pizzas per order.
+- The highest revenue month was July.
+- The lowest revenue month was October.
+- The busiest day of the week was Friday.
+- The slowest day of the week was Sunday.
+- The peak order hour was 12:00.
+- The best-selling product was The Classic Deluxe Pizza.
+- The least-selling product was The Brie Carre Pizza.
+- Classic and Supreme pizzas were among the strongest revenue-generating categories.
+- Demand is strongest around lunch and evening time periods.
+
 
 
 
