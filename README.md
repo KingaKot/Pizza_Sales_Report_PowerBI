@@ -87,7 +87,7 @@ The Time Analysis page focuses on customer ordering patterns over time. It helps
 
 <img width="1327" height="743" alt="pizza_time_analysis" src="https://github.com/user-attachments/assets/872d7126-4f21-4df9-b5bc-69aabf4a01cf" />
 
-## Key KPIs
+### Key KPIs
 - Peak Order Hour - Hour with the highest number of orders
 - Highest Revenue Month - Month with the highest revenue
 - Lowest Revenue Month - Month with the lowest revenue
