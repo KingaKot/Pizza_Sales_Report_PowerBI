@@ -82,6 +82,32 @@ This chart shows the five products with the lowest revenue contribution. It help
 #### **Price vs Product Demand**
 This scatter chart compares product price with the number of pizzas sold. It helps analyze whether higher-priced products have lower demand and whether some products perform well despite a higher price. The chart uses category colors to distinguish pizza groups.
 
+## ⏰ Time Analysis Page
+The Time Analysis page focuses on customer ordering patterns over time. It helps identify peak demand periods, busiest weekdays, and monthly order trends.
+
+<img width="1327" height="743" alt="pizza_time_analysis" src="https://github.com/user-attachments/assets/872d7126-4f21-4df9-b5bc-69aabf4a01cf" />
+
+## Key KPIs
+- Peak Order Hour - Hour with the highest number of orders
+- Highest Revenue Month - Month with the highest revenue
+- Lowest Revenue Month - Month with the lowest revenue
+- Busiest Day of Week - Weekday with the highest order volume
+- Slowest Day of Week - Weekday with the lowest order volume
+
+### Visuals Included
+#### Peak Hours
+This bar chart groups orders into time slots and shows when customers are most likely to order. It helps identify peak ordering periods during the day.
+
+#### Demand Heatmap by Day and Hour
+This heatmap shows demand intensity by weekday and hour. It provides a detailed view of customer behavior and helps identify the strongest combinations of day and time.
+
+#### Orders by Day of Week
+This chart compares order volume across weekdays. It helps identify the busiest and slowest days of the week.
+
+#### Monthly Order Trend
+This line chart shows how order volume changes month by month. It helps detect seasonality and changes in customer demand across the year.
+
+
 
 
 
