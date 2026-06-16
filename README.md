@@ -64,7 +64,7 @@ These filters allow users to explore sales performance for specific pizza catego
 
 The Product Performance page focuses on product-level analysis. This page helps understand which pizzas perform best, which products generate the most revenue, and how price relates to demand.
 
-<img width="1327" height="742" alt="pizza_product_performance" src="https://github.com/user-attachments/assets/556c9989-5b42-4f25-8938-83239471ffa2" />
+<img width="1485" height="828" alt="image" src="https://github.com/user-attachments/assets/5b97f410-d342-45c0-a865-53cf3b8d689c" />
 
 ### Key KPIs
 - Unique Pizza Recipes - Number of unique pizza recipes available
@@ -85,7 +85,7 @@ This scatter chart compares product price with the number of pizzas sold. It hel
 ## ⏰ Time Analysis Page
 The Time Analysis page focuses on customer ordering patterns over time. It helps identify peak demand periods, busiest weekdays, and monthly order trends.
 
-<img width="1327" height="743" alt="pizza_time_analysis" src="https://github.com/user-attachments/assets/872d7126-4f21-4df9-b5bc-69aabf4a01cf" />
+<img width="1485" height="832" alt="image" src="https://github.com/user-attachments/assets/b095be99-5896-4094-90fa-913452c30e14" />
 
 ### Key KPIs
 - Peak Order Hour - Hour with the highest number of orders
